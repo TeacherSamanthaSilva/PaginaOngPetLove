@@ -2,6 +2,8 @@ body{
     font-family: 'Roboto', sans-serif;
     color: #4b6b44;
 	margin: 0;
+	background-color: #E1A3FF;
+
 }
 
 h1{
@@ -84,5 +86,58 @@ nav ul li a{
 
 nav ul :hover { 
     background-color: #8B73FF;
+}
+
+header p{
+	margin-bottom: 2em;
+}
+
+/* Sobre */
+#sobre{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	padding: 0 20px 20px;
+	background-color: #E1A3FF;
+	color: #f1f1f1;
+}
+
+#sobre .botao{
+	background-color: #f1f1f1;
+	color: #4d4d4d;
+}
+
+#sobre p{
+	margin-bottom: 2.5em;
+	max-width: 1000px;
+	font-size: 2em;
+	color:#8B73FF;
+}
+
+/* Adoções */
+.adocoes{
+	margin: 30px;
+}
+
+.adocoes > p{
+	padding: 10px;
+}
+
+.dogs{
+	margin: 30px;
+	display: flex;
+}
+
+.color p{
+	text-align: center;
+}
+
+button{
+	background-color: #8B73FF;
+	color: #fff;
+	padding:10px;
+	font-size:1em;
+	margin-left: 120px;
 }
 
