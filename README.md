@@ -1,2 +1,2 @@
 # PaginaOngPetLove
- Página criada para divulgação da ong fictícia PetLove criada na disciplina de inglês para devs do curso carreira em desenvolvimento frontend vai na web
+ Esse repositório foi criado para guardar os arquivos da página da ong fictícia PetLove desenvolvido no curso carreira em desenvolvimento frontend Vai na web
